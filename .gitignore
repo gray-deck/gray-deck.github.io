@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Gitrepo/FileContentIndex/merges
+/.vs/slnx.sqlite
+/.vs/Gitrepo/FileContentIndex
